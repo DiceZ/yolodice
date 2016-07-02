@@ -4,13 +4,13 @@
 
 var config = {
   // - Your app's id on moneypot.com
-  app_id: 689,                             // <----------------------------- EDIT ME!
+  app_id: 1346,                             // <----------------------------- EDIT ME!
   // - Displayed in the navbar
   app_name: 'YOLO' ,
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
-  recaptcha_sitekey: '6LdLiBATAAAAAJxq_vT5QGJZ0ONoyh1HdxPGv5e3',  // <----- EDIT ME!
-  redirect_uri: 'https://yolodice.github.io',
+  recaptcha_sitekey: '6LexiiMTAAAAAPgk61SMBRTB27tlrzKl87arwrgN',  // <----- EDIT ME!
+  redirect_uri: 'https://yolodice.manydice.ml',
   mp_browser_uri: 'https://www.moneypot.com',
   mp_api_uri: 'https://api.moneypot.com',
   chat_uri: '//socket.moneypot.com',
